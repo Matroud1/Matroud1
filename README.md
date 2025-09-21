@@ -1,5 +1,8 @@
-# 💫 About Me:
-# 👋 Salut, moi c'est **Madany DIALLO**<br><br>💼 **Data Scientist** avec 2 ans d’expérience  <br>💡 Passionné par l'Inférence statistique, l'Économétrie, le Machine Learning et l’Intelligence Artificielle  <br><br>---<br><br>### 🔭 Actuellement<br>- Je travaille sur des projets en **Machine Learning et Intelligence Artificielle**  <br>- Je développe des solutions Data avec **Python** et **SQL**  <br><br>### 🌱 J’apprends en ce moment<br>- L’optimisation de pipelines **MLOps**  <br><br>### 🤝 Ouvert à<br>- Collaborations sur des projets **Data Science / AI**  <br>- Opportunités professionnelles dans le domaine **IA et Data**  <br><br>---<br>
+ 👋 Salut, moi c'est **Madany DIALLO**
+
+💼 **Data Scientist** avec 2 ans d’expérience  
+💡 Passionné par **l’inférence statistique, l’économétrie, le Machine Learning et l’Intelligence Artificielle**  
+📊 Objectif : transformer les données en **informations utiles** pour soutenir la décision et l’innovation.  
 
 
 # 💻 Tech Stack:
