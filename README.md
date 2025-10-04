@@ -1,5 +1,5 @@
 👋 Salut, moi c'est **Madany DIALLO**  
-💼 **Data Scientist** avec 2 ans d’expérience  
+💼 **Data Scientist**  
 💡 Passionné par l'**Inférence statistique, l'Économétrie, le Machine Learning et l’Intelligence Artificielle**  
 
 ---
